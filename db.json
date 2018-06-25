@@ -1,11 +1,18 @@
 {
   "profile":
-          {
-          "CUSTOMER_ID":"111111",
-          "FIRST_NAME":"Shiva",
-          "LAST_NAME":"R",
-          "DP_CLIENT_ID":"11421418",
-          "CUSTOMER_TYPE":"W1"
-          }
+          [
+            { "CUSTOMER_ID":"111111",
+              "FIRST_NAME":"Shiva",
+              "LAST_NAME":"R",
+              "DP_CLIENT_ID":"11421418",
+              "CUSTOMER_TYPE":"W1"
+            },
+            { "CUSTOMER_ID":"12345",
+              "FIRST_NAME":"Shiva",
+              "LAST_NAME":"R",
+              "DP_CLIENT_ID":"11421418",
+              "CUSTOMER_TYPE":"W1"
+            }
+          ]
 
 }
