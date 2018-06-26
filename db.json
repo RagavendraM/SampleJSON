@@ -1,5 +1,4 @@
-[
-  {
+{
     "profile": {
     "CUSTOMER_ID":"111111",
     "FIRST_NAME":"Shiva",
@@ -28,5 +27,4 @@
     "CITY_NAME":"CHENNAI",
     "PINCODE":"628932"
   }
-  }
-]
+}
