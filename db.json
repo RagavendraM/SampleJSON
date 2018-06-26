@@ -1,5 +1,6 @@
 [
-  "profile": {
+  {
+    "profile": {
     "CUSTOMER_ID":"111111",
     "FIRST_NAME":"Shiva",
     "MIDDLE_NAME":"",
@@ -26,5 +27,6 @@
     "STATE_NAME":"TAMILNADU",
     "CITY_NAME":"CHENNAI",
     "PINCODE":"628932"
+  }
   }
 ]
