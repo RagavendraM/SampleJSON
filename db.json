@@ -1,0 +1,26 @@
+{
+  "sample":[
+    {
+      "description":"Lady with a red umbrella",
+      "image-url":"https://picsum.photos/100"
+    },
+    {
+      "description":"Flowers and some fruits",
+      "image-url":"https://picsum.photos/100"
+    },
+    {
+      "description":"Beautiful scenery",
+      "image-url":"https://picsum.photos/100"
+    },
+    {
+      "description":"Some kind of bird",
+      "image-url":"https://picsum.photos/100"
+    },
+    {
+      "description":"The attack of dragons",
+      "image-url":"https://picsum.photos/100"
+    }
+    
+  ]
+
+}
