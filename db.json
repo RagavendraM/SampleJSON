@@ -1,23 +1,23 @@
 [
     {
       "title":"Lady with a red umbrella",
-      "image":"https://picsum.photos/100"
+      "image":"https://picsum.photos/200"
     },
     {
-      "description":"Flowers and some fruits",
-      "image":"https://picsum.photos/100"
+      "title":"Flowers and some fruits",
+      "image":"https://picsum.photos/200"
     },
     {
-      "description":"Beautiful scenery",
-      "image":"https://picsum.photos/100"
+      "title":"Beautiful scenery",
+      "image":"https://picsum.photos/200"
     },
     {
-      "description":"Some kind of bird",
-      "image":"https://picsum.photos/100"
+      "title":"Some kind of bird",
+      "image":"https://picsum.photos/200"
     },
     {
-      "description":"The attack of dragons",
-      "image":"https://picsum.photos/100"
+      "title":"The attack of dragons",
+      "image":"https://picsum.photos/200"
     }
     
   ]
