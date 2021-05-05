@@ -1,5 +1,4 @@
-{
-  "sample":[
+[
     {
       "title":"Lady with a red umbrella",
       "image":"https://picsum.photos/100"
@@ -22,5 +21,3 @@
     }
     
   ]
-
-}
