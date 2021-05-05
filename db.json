@@ -1,30 +1,52 @@
-{
-    "profile": {
-    "CUSTOMER_ID":"111111",
-    "FIRST_NAME":"Shiva",
-    "MIDDLE_NAME":"",
-    "LAST_NAME":"R",
-    "CLIENT_ID":"7845921",
-    "CUSTOMER_TYPE":"W1",
-    "LOGIN_ID":"SHIVA",
-    "ADDRESS_ONE":"32 ABC APARTMENTS",
-    "ADDRESS_TWO":"RSGV DYBSJ",
-    "CITY":"CHENNAI",
-    "PIN_CODE":"628933",
-    "PRODUCT_ID":"F3",
-    "MBL":"917654894367",
-    "EML":"shiva1.ts@gmail.com",
-    "DATE_OF_BIRTH":"12-DEC-1945",
-    "PAN_NO":"VVIOE8263G",
-    "BRANCH_ID":"554",
-    "BRANCH_NAME":"TVM BRANCH",
-    "BRANCH_CODE":"213",
-    "BRANCH_TYPE_ID":"3",
-    "MOBILE":"9352617383",
-    "PHONE_TWO":"",
-    "COUNTRY_NAME":"INDIA",
-    "STATE_NAME":"TAMILNADU",
-    "CITY_NAME":"CHENNAI",
-    "PINCODE":"628932"
-  }
-}
+[  
+   {  
+      "id":"1",
+      "image":"http://velmm.com/images/bottom_navigationview/coco.jpg",
+      "title":"Coco"
+   },
+   {  
+      "id":"2",
+      "image":"http://velmm.com/images/bottom_navigationview/terminator_2.jpg",
+      "title":"Terminator 2: Judgment Day 3D"
+   },
+   {  
+      "id":"3",
+      "image":"http://velmm.com/images/bottom_navigationview/dunkirk.jpg",
+      "title":"Dunkirk"
+   },
+   {  
+      "id":"4",
+      "image":"http://velmm.com/images/bottom_navigationview/the_salesman.jpg",
+      "title":"The Salesman"
+   },
+   {  
+      "id":"5",
+      "image":"http://velmm.com/images/bottom_navigationview/lion.png",
+      "title":"Lion"
+   },
+   {  
+      "id":"6",
+      "image":"http://velmm.com/images/bottom_navigationview/star_war.jpg",
+      "title":"Star Wars: The Last Jedi"
+   },
+   {  
+      "id":"7",
+      "image":"http://velmm.com/images/bottom_navigationview/thor_ragnarok.jpg",
+      "title":"Thor: Ragnarok"
+   },
+   {  
+      "id":"8",
+      "image":"http://velmm.com/images/bottom_navigationview/blade_runner_2049.jpg",
+      "title":"Blade Runner 2049"
+   },
+   {  
+      "id":"9",
+      "image":"http://velmm.com/images/bottom_navigationview/borg_mcenroe.jpg",
+      "title":"Borg McEnroe"
+   },
+   {  
+      "id":"10",
+      "image":"http://velmm.com/images/bottom_navigationview/wonder.jpg",
+      "title":"Wonder"
+   }
+]
