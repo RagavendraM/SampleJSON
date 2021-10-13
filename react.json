@@ -1,1 +1,5 @@
-[{ id: '1',title: 'MacBook Pro', price: '$1500' }, { id: '2',title: 'iPad', price: '$500' }, { id: '3', title: 'Nexus', price: '$800' }]
+[
+  { "id": "1","title": "MacBook Pro", "price": "$1500" }, 
+  { "id": "2","title": "iPad", "price": "$500" }, 
+  { "id": "3", "title": "Nexus", "price": "$800" }
+]
