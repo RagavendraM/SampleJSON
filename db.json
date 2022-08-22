@@ -1,35 +1,3 @@
-[
-    {
-      "title":"Lady with a red umbrella",
-      "image":"https://picsum.photos/200"
-    },
-    {
-      "title":"Flowers and some fruits",
-      "image":"https://picsum.photos/200"
-    },
-    {
-      "title":"Beautiful scenery",
-      "image":"https://picsum.photos/200"
-    },
-    {
-      "title":"Some kind of bird",
-      "image":"https://picsum.photos/200"
-    },
-    {
-      "title":"The attack of dragons",
-      "image":"https://picsum.photos/200"
-    },
-    {
-      "title":"Some kind of bird",
-      "image":"https://picsum.photos/200"
-    },
-    {
-      "title":"Some kind of bird",
-      "image":"https://picsum.photos/200"
-    },
-    {
-      "title":"Some kind of bird",
-      "image":"https://picsum.photos/200"
-    }
-    
-  ]
+{
+  "Base_URL" = "https://jsonplaceholder.typicode.com/todos/1"
+}
